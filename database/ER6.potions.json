@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6737449a4f246309869de9e6"
+  },
+  "name": "Laudanum",
+  "description": "A smelly tonic that restores venom",
+  "value": 100
+},
+{
+  "_id": {
+    "$oid": "6737449a4f246309869de9e7"
+  },
+  "name": "Salve",
+  "description": "A red-coloured tonic that restores health",
+  "value": 150
+}]
